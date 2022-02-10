@@ -1,6 +1,6 @@
-<h2>Hi, I am <strong>Ahmad Sarwar</strong> &#128075</h2>
+<h2>&#128075 Hi, I am <strong>Ahmad Sarwar</strong></h2>
 <h3><li>About Me</li></h3>
-<h5>&#127891 I am doing my Software Engineering degree from Punjab University College of Information and Technology</h5>
+<h5>&#127891 I am doing my Software Engineering degree from Punjab University College of Information and Technology (PUCIT)</h5>
 <h5>&#127942 Beta Microsoft Learn Student Ambassador</h5>
 <h5>&#10024 Microsoft Technology Assicate(HTML-CSS & Python)</h5>
 <h5>&#128187 I am intersted in Web Development</h5>
