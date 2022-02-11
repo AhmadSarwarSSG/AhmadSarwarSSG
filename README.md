@@ -2,7 +2,7 @@
 <h3><li>About Me</li></h3>
 <h5>&#127891 I am doing my Software Engineering degree from Punjab University College of Information and Technology (PUCIT)</h5>
 <h5>&#127942 Beta Microsoft Learn Student Ambassador</h5>
-<h5>&#10024 Microsoft Technology Assicate(HTML-CSS & Python)</h5>
+<h5>&#10024 Microsoft Technology Associate (HTML-CSS & Python)</h5>
 <h5>&#128187 I am intersted in Web Development</h5>
 <h5>&#128202 I like to collaborte in Web related projects</h5>
 <h3><li>Contact Me</li></h3>
