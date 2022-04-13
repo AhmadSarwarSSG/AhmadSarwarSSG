@@ -10,7 +10,7 @@
 <h5>&#128204 LinkedIn: https://www.linkedin.com/in/ahmad-sarwar/</h5>
 <h5>&#128204 Twitter: https://twitter.com/CarftyC</h5>
 <h5>&#128204 Facebook: https://web.facebook.com/ahmadsarwarjeo67/</h5>
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=radical)
 <!---
 AhmadSarwarSSG/AhmadSarwarSSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
