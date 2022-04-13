@@ -10,9 +10,12 @@
 <h5>&#128204 LinkedIn: https://www.linkedin.com/in/ahmad-sarwar/</h5>
 <h5>&#128204 Twitter: https://twitter.com/CarftyC</h5>
 <h5>&#128204 Facebook: https://web.facebook.com/ahmadsarwarjeo67/</h5>
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadSarwarSSG)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSarwarSSG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AhmadSarwarSSG/AhmadSarwarSSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
