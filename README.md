@@ -10,7 +10,7 @@
 <h5>&#128204 LinkedIn: https://www.linkedin.com/in/ahmad-sarwar/</h5>
 <h5>&#128204 Twitter: https://twitter.com/CarftyC</h5>
 <h5>&#128204 Facebook: https://web.facebook.com/ahmadsarwarjeo67/</h5>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadSarwarSSG)](https://git.io/streak-stats)
 
