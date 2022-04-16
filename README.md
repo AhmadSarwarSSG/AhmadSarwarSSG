@@ -11,11 +11,18 @@
 <h5>&#128204 Twitter: https://twitter.com/CarftyC</h5>
 <h5>&#128204 Facebook: https://web.facebook.com/ahmadsarwarjeo67/</h5>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=AhmadSarwaraSSG&color=blue)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadSarwarSSG)](https://git.io/streak-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=great-gatsby&bg_color=151515" width="49.6%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadSarwarSSG&theme=dark" width="49.6%">
+</p> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSarwarSSG&layout=compact&theme=dark" width="50%">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSarwarSSG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 AhmadSarwarSSG/AhmadSarwarSSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
