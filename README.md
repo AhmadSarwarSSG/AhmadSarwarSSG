@@ -17,9 +17,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadSarwarSSG&show_icons=true&theme=great-gatsby&bg_color=151515" width="49.6%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadSarwarSSG&theme=dark" width="49.6%">
-</p> 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSarwarSSG&layout=compact&theme=dark" width="50%">
 </p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
